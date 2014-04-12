@@ -1,3 +1,3 @@
 <?php
 
-	echo "Today's Date: " . date('l') . ".";
+	echo "Back to hello world...";
